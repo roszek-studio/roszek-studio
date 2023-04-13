@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roszek-studio
 - 👀 I’m interested in c++ and web technologies
-- 🌱 I’m currently learning c++.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me roszekstudio@gmail.com
 
 <!---
